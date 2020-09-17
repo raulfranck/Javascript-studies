@@ -1,7 +1,7 @@
 # Javascript-studies
-Este repo foi criado com o intuito de guardar todos os projetos e estudos criados apenas com javascript, para futuras consultas e/ou mensurar a evolução dos meus estudos na linguagem.
+This repo was created with the intention of saving all projects and studies created only with javascript, for future consultations and / or to measure the evolution of my studies in language.
 
-# :heartbeat: Projetos
+# :heartbeat: Projects
 
 🎵 [Piano](https://github.com/raulfranck/Javascript-studies/tree/master/piano)<br>
-  Projeto desenvolvido para estudo e manipualção da DOM
+
